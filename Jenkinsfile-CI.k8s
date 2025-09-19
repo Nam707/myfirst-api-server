@@ -50,7 +50,7 @@ spec:
     }
     environment {
         GIT_URL = 'https://github.com/Nam707/myfirst-api-server.git'
-        GIT_BRANCH = 'master' // 또는 main
+        GIT_BRANCH = 'main' // 또는 main
         GIT_ID = 'skala-github-id' // GitHub PAT credential ID
         GIT_USER_NAME = 'Nam707' // GitHub 사용자 이름
         GIT_USER_EMAIL = 'ehalshs123@naver.com'
